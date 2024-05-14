@@ -1,4 +1,4 @@
-Для просмотра интерактивных графиков необходимо открыть блокнот через **nbviewer** по [данной ссылке](https://nbviewer.org/github/AndreyShalatonov/city_food_service_research/blob/30110abdaf3b7bfbd7d00124dcbe14557ada658a/city_food_service_research.ipynb).
+Для просмотра интерактивных графиков необходимо открыть блокнот через **nbviewer** по [данной ссылке](https://nbviewer.org/github/AndreyShalatonov/city_food_service_research/blob/62b7ea9be3047bc2ccb3f555e036bc905bbe54f8/city_food_service_research.ipynb).
 
 # Исследование рынка заведений общественного питания Москвы
 **Задачи:**
